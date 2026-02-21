@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>TITULO ATUALIZADO</h1>
+    return <h1>TITULO ATUALIZADO NOVAMENTE</h1>
 }
 
 export default Home;
